@@ -10,6 +10,7 @@ public class main {
         t2.start();
         Thread.sleep(300);
         t3.start();
+        System.out.println("Hi All");
 
     }
 }
